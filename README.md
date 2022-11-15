@@ -1,4 +1,4 @@
-##Group 1 Project #4
+#Group 1 Project #4
 
 ###Team Members:
 
