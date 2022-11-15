@@ -25,12 +25,12 @@ Project Idea:
 
 Tasks
 
-Hwa Hara (Tableau)
-Valentia Zhu (TBD)
-Fannie Polcari (Tableau)
-Dantrell Person (Machine Learning)
-Huda Alghazouli (Machine Learning)
-Kafayat Lawal (TBD)
-Angele G (TBD)
-William Mills (Tableau, Matplotlib)
-Preston Harcey (TBD)
+- Hwa Hara (Tableau)
+- Valentia Zhu (TBD)
+- Fannie Polcari (Tableau)
+- Dantrell Person (Machine Learning)
+- Huda Alghazouli (Machine Learning)
+- Kafayat Lawal (TBD)
+- Angele G (TBD)
+- William Mills (Tableau, Matplotlib)
+- Preston Harcey (TBD)
