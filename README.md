@@ -35,6 +35,7 @@ We selected the following files from the Data Set:
  This dataset consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are nearly 18 features.
  
  https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
+ 
  This second dataset consists of 6842885 customers mentioning: Gender,car	owner, property	owner, Number of children, Annual income, Income category, Education level, Marital status,Way of living, Birthday, Start date of employment, Is there a mobile phone, Is there a work phone, Is there a phone, Is there an email, Occupation, Family size.
  
  https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
