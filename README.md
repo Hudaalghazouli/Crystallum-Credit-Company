@@ -3,7 +3,9 @@
 #### Team Member
 
 •	Hwa Hara
+
 •	Valentia Zhu 
+
 •	Fannie Polcari 
 •	Dantrell Person 
 •	Huda Alghazouli 
