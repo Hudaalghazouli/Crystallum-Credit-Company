@@ -7,11 +7,17 @@
 •	Valentia Zhu 
 
 •	Fannie Polcari 
+
 •	Dantrell Person 
-•	Huda Alghazouli 
+
+•	Huda Alghazouli
+
 •	Kafayat Lawal 
+
 •	Angele Gueupi
+
 •	William Mills
+
 •	Preston Harcey 
 
 ## Project Summary:
