@@ -1,4 +1,4 @@
-## Project: Crystallum
+# Project: Crystallum
 
 #### Team Member
 
@@ -29,3 +29,5 @@ Linear Regression tries to guess if we enter tick marks like income and educatio
 1.	Pick technology pieces to support the project. (3 or more) 
 2.	Present how we trained a then used machine learning in this real-world scenario that can lead to a Tableau. 
 3.	In Tableau further exampling the use of machine learning by showcasing a few individuals and how that data can be analyzed and relied on for making business decisions for Crystallum
+
+## Data Source:
