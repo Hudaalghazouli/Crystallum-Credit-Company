@@ -1,6 +1,6 @@
 # Project: Crystallum
 
-![image](https://user-images.githubusercontent.com/106934375/203449264-6d2fd756-594e-4998-b429-5f5359ff3008.png)
+![image](https://user-images.githubusercontent.com/106934375/203449381-fe0ea240-10c6-4276-ae7b-de61e9de4593.png)
 
 
 #### Team Member
