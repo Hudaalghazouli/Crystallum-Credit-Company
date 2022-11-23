@@ -2,7 +2,7 @@ Group 1 Project #4
 
 Team Members:
 
-Hwa Hara
+Hwa Hara 
 Valentia Zhu
 Fannie Polcari
 Dantrell Person
@@ -24,7 +24,7 @@ Project Idea:
 
 - Linear Regression tries to guess if we enter tick marks like income and education, etc what our model will predict the credit limit will be
 
-Tasks
+Tasks bsjskksks
 
 - Hwa Hara (Tableau)
 - Valentia Zhu (TBD)
