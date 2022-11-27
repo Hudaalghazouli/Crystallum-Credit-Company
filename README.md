@@ -17,8 +17,6 @@
 
 •	William Mills
 
-•	Preston Harcey 
-
 ## Project Summary:
 We are a credit card company named Crystallum
 Using credit card holder information to teach via supervised machine learning how much credit an applicant receives (credit limit)
