@@ -5,8 +5,6 @@
 
 •	Hwa Hara
 
-•	Valentia Zhu 
-
 •	Fannie Polcari 
 
 •	Dantrell Person 
