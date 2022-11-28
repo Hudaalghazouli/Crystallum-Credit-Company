@@ -29,7 +29,7 @@ Linear Regression tries to guess if we enter tick marks like income and educatio
 
 ## Data Source:
 We selected the following files from the Data Set:
- The first dataset consists of 10,000 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are nearly 18 features.
+ The first dataset consists of 10,127 customers mentioning their age, salary, marital_status, credit card limit, credit card category, etc. There are nearly 18 features.
  
  https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers
  
