@@ -24,7 +24,7 @@ Leadership team, credit team, debt collection team, sales team
 
 ## Scope (Tools used):
 
-Python, Linear regression, Classification, Tableau, SQL
+Python, Pandas, Matplotlib, Linear regression, Classification, Logistic Regression, Random Forest Classifier, Tableau, SQL
 
 ## Tasks:
 
