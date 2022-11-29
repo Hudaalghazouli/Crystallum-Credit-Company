@@ -1,6 +1,6 @@
 # Project: Crystallum
 
-![image](https://user-images.githubusercontent.com/106934375/203449683-136fe73e-c757-4236-a7f2-e441227f90ed.png)
+![image](assets/images/credit-card-stock.png)
 
 #### Team Members
 
