@@ -50,7 +50,7 @@ First data set reviewed with tableau for our 10.127 customers as starting point.
 
 ## Machine Learning Models:
 
-##Credit Limit Model:
+## Credit Limit Model:
 
 determined in the **Linear_then_logistic notebook** 
 
