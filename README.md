@@ -1,4 +1,4 @@
-# Crystallum-Credit-Company
+# Project: Crystallum
 
 ![image](assets/images/credit-card-stock.png)
 
@@ -54,28 +54,9 @@ First data set reviewed with tableau for our 10.127 customers as starting point.
 * Used https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers to predict the credit limit for our potential customers. 
 
 
- Credit Limit was determined in the **Linear_then_logistic notebook** 
 
----------------------------------------------------------------------------------------------------------
 
-To begin building our model for predicting the credit limit we started off by visualizing the correlation between different features. The next step was to explore feature engineering to give our model another potential factor when predicting credit limit. The idea behind our score feature is if you get a high score you should have a higher credit limit. How we calculate it: You want your composite score(Months on book * Education_Level * Marital_Status) to be a high number, and you want the weight (Dependent_count + Avg_Utilization_Ratio) to be a low number. So you would want the weight to either make the composite score bigger or at least not drag it down so when you multiply by the income you get a higher score. As visualized below it didn’t work perfectly but the data is leaning to the right.  So we decided to move forward with it 
 
-## Linear Regression Model(sci-kit learn) Trial 1 for predicting credit limit:
-* using https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers to predict the credit limit range for our potential customers.*
-
-When using the sci-kit learn modules to predict MSE and R-squared value we did got an r-score of 0.51 which is not that accurate.
-
-## Linear Regression (manual functions) Trial 2 for predicting credit limit:*
-
-We defined manual cost, gradient, and gradient descent functions and tested at different alpha rates and iterations to determine best paramets and reduce cost. We received an r-score of 0.55 which again is not that accurate.
-
-## Logistic Regression (sci-kit learn) Trial 3 for predicting credit range:
-
-We determined our models towards linear regression were not that accurate and then moved forward with using sci-kit learn to determine which customers would be eligible for higher credit limits and which would be eligible for lower credit limits. We received a train score of 1 and a test score of 0.99.
-
-**Our recommendation to executive team is to use this model to separate customers into credit ranges and then further evaluate to determine exact credit limit**
-
------------------------------------------------ Predicting Credit Limit End ---------------------------------------
 
 
 
@@ -97,9 +78,23 @@ We determined our models towards linear regression were not that accurate and th
 * X: No loan for the month.
 
 **Trial #1:**
-``` def new_status_trial1(sampleTrial1):
+```
     if sampleTrial1=='C' or sampleTrial1=='X':
         return 1
     else:
         return 0
-        
+```
+**Trial #2:**
+``` 
+    if sampleTrial2=='C' or sampleTrial2=='X' or sampleTrial2=='0':
+        return 1
+    else:
+        return 0
+```
+**Trial #3:**
+``` 
+    if sampleTrial3=='C' or sampleTrial3=='X' or sampleTrial3=='0' or sampleTrial3=='1':
+        return 1
+    else:
+        return 0
+```
