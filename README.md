@@ -63,5 +63,18 @@ First data set reviewed with tableau for our 10.127 customers as starting point.
 # Logistic Regression model:
 * Used https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction to predict whether the customers who receive credit from us  will pay us back.
 * We looked at the status of payments and reworked the values in the ‘STATUS’ column so it can only hold 0 or 1.
-* Created a Scatter plot to show status with every other column
-* Used “X dummies” to convert all values to numbers (encoding)
+* Created a Scatter plot to show status with every other column.
+* Used “X dummies” to convert all values to numbers (encoding).
+* We've done three ways to resampling the values in the 'STATUS' column.
+
+## STATUS Column values:
+* 0: 1-29 days past due.
+* 1: 30-59 days past due. 
+* 2: 60-89 days overdue.
+* 3: 90-119 days overdue. 
+* 4: 120-149 days overdue. 
+* 5: Overdue or bad debts, write-offs for more than 150 days.
+* C: paid off that month.
+* X: No loan for the month.
+
+### Trial #1
