@@ -10,13 +10,6 @@
 
 We are a credit card company named Crystallum looking to improve our credit lending processes.
 
-## Tableau Analysis:
-
-https://public.tableau.com/app/profile/fannie.p/viz/Project4Team1/Dashboard1
-
-https://public.tableau.com/app/profile/fannie.p/viz/CrystallumCreditCardCompanymergeddataframe/DebtStatus_Gender_Income_Education?publish=yes
-
-
 ## Problem Statement:
 
 Analyze current customer metrics to assist credit team and leadership in making data backed decsions on what credit ranges to give newly approved customers, and determine which customers are likely to pay off their credit balance.
@@ -58,5 +51,17 @@ First data set reviewed with tableau for our 10.127 customers as starting point.
 ## Machine Learning Models:
 
 # Linear Regression Model:
-* using https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers to predict the credit limit for our potential customers. 
+* Used https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers to predict the credit limit for our potential customers. 
 
+
+
+
+
+
+
+
+# Logistic Regression model:
+* Used https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction to predict whether the customers who receive credit from us  will pay us back.
+* We looked at the status of payments and reworked the values in the ‘STATUS’ column so it can only hold 0 or 1.
+* Created a Scatter plot to show status with every other column
+* Used “X dummies” to convert all values to numbers (encoding)
