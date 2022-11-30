@@ -50,3 +50,5 @@ First data set reviewed with tableau for our 10.127 customers as starting point.
 
 ## Machine Learning Models:
 
+### Linear Regression Model using https://www.kaggle.com/datasets/sakshigoyal7/credit-card-customers to predict the credit limit for our potential customers. 
+
