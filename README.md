@@ -130,17 +130,17 @@ We determined our models towards linear regression were not that accurate and th
 ## Confusion Matrix: 
 * Trial #1:
 
-![CM-Trial1-LR](Output_Data/visualizations/CM-LR-Trial1.png)   ![CM-Trial1-RFC](Output_Data/visualizations/CM-RFC-Trial1.png) 
+![CM-Trial1-LR](Output_Data/visualizations/CM-LR-trial1.png)   ![CM-Trial1-RFC](Output_Data/visualizations/CM-RFC-trial1.png) 
 
 ## Confusion Matrix: 
 * Trial #2:
 
-![CM-Trial2-LR](Output_Data/visualizations/CM-LR-Trial2.png)    ![CM-Trial2-RFC](Output_Data/visualizations/CM-RFC-Trial2.png) 
+![CM-Trial2-LR](Output_Data/visualizations/CM-LR-trial2.png)    ![CM-Trial2-RFC](Output_Data/visualizations/CM-RFC-trial2.png) 
 
 ## Confusion Matrix: 
 * Trial #3:
 
-![CM-Trial3-LR](Output_Data/visualizations/CM-LR-Trial3.png)    ![CM-Trial3-RFC](Output_Data/visualizations/CM-RFC-Trial3.png) 
+![CM-Trial3-LR](Output_Data/visualizations/CM-LR-trial3.png)    ![CM-Trial3-RFC](Output_Data/visualizations/CM-RFC-trial3.png) 
 
 ### coclusion:
 We're going to go with the third trial the Random Forest Classifier methond since it gives the most accurate results!
