@@ -47,3 +47,6 @@ https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction
 
 First data set reviewed with tableau for our 10.127 customers as starting point.
 ![image](https://user-images.githubusercontent.com/106934375/204407612-f4de9a85-6889-44b1-9a30-6ed701598686.png)
+
+## Machine Learning Models:
+
