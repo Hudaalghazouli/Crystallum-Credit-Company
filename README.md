@@ -81,14 +81,8 @@ We determined our models towards linear regression were not that accurate and th
 
 ----------------------------------------------- Predicting Credit Limit End --------------------------------------- 
 
-
-
-
-
-
-
-
 # Logistic Regression model:
+
 * Used https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction to predict whether the customers who receive credit from us  will pay us back.
 * We looked at the status of payments and reworked the values in the ‘STATUS’ column so it can only hold 0 or 1.
 * Created a Scatter plot to show status with every other column.
@@ -126,3 +120,29 @@ We determined our models towards linear regression were not that accurate and th
     else:
         return 0
 ```
+
+| Trial            | #1          | #2          | #3          |
+| :--------------: | :---------: | :---------: | :---------: |
+| LR: test - train |0.609 - 0.612|0.985 - 0.985|0.996 - 0.996|
+| RFC: test - train|1     - 0.761|1     - 0.983|1     - 0.997|
+
+
+## Confusion Matrix: 
+* Trial #1:
+
+![CM-Trial1-LR](Output_Data/visualizations/CM-LR-Trial1.png)    ![CM-Trial1-RFC](Output_Data/visualizations/CM-RFC-Trial1.png) 
+
+## Confusion Matrix: 
+* Trial #2:
+
+![CM-Trial2-LR](Output_Data/visualizations/CM-LR-Trial2.png)    ![CM-Trial2-RFC](Output_Data/visualizations/CM-RFC-Trial2.png) 
+
+## Confusion Matrix: 
+* Trial #3:
+
+![CM-Trial3-LR](Output_Data/visualizations/CM-LR-Trial3.png)    ![CM-Trial3-RFC](Output_Data/visualizations/CM-RFC-Trial3.png) 
+
+### coclusion:
+We're going to go with the third trial the Random Forest Classifier methond since it gives the most accurate results!
+
+----------------------------------------------- Predicting Payment Status End --------------------------------------- 
