@@ -10,6 +10,13 @@
 
 We are a credit card company named Crystallum looking to improve our credit lending processes.
 
+## Tableau Analysis:
+
+https://public.tableau.com/app/profile/fannie.p/viz/Project4Team1/Dashboard1
+
+https://public.tableau.com/app/profile/fannie.p/viz/CrystallumCreditCardCompanymergeddataframe/DebtStatus_Gender_Income_Education?publish=yes
+
+
 ## Problem Statement:
 
 Analyze current customer metrics to assist credit team and leadership in making data backed decsions on what credit ranges to give newly approved customers, and determine which customers are likely to pay off their credit balance.
