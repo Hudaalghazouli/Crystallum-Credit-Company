@@ -1,4 +1,4 @@
-# Project: Crystallum
+# Crystallum-Credit-Company
 
 ![image](assets/images/credit-card-stock.png)
 
@@ -9,6 +9,12 @@
 ## Project Summary:
 
 We are a credit card company named Crystallum looking to improve our credit lending processes.
+
+## Kaggle Analysis:
+
+https://public.tableau.com/app/profile/fannie.p/viz/Project4Team1/Dashboard1
+
+https://public.tableau.com/app/profile/fannie.p/viz/CrystallumCreditCardCompanymergeddataframe/DebtStatus_Gender_Income_Education?publish=yes
 
 ## Problem Statement:
 
