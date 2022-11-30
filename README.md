@@ -77,4 +77,10 @@ First data set reviewed with tableau for our 10.127 customers as starting point.
 * C: paid off that month.
 * X: No loan for the month.
 
-### Trial #1
+**Trial #1:**
+``` def new_status_trial1(sampleTrial1):
+    if sampleTrial1=='C' or sampleTrial1=='X':
+        return 1
+    else:
+        return 0
+        ```
