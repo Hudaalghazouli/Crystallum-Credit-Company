@@ -81,7 +81,7 @@ We determined our models towards linear regression were not that accurate and th
 
 ----------------------------------------------- Predicting Credit Limit End --------------------------------------- 
 
-# Logistic Regression model:
+# Logistic Regression model: (logistic_regression_model.ipynb)
 
 * Used https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction to predict whether the customers who receive credit from us  will pay us back.
 * We looked at the status of payments and reworked the values in the ‘STATUS’ column so it can only hold 0 or 1.
