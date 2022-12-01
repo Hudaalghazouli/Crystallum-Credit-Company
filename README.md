@@ -142,7 +142,7 @@ We determined our models towards linear regression were not that accurate and th
 
 ![CM-Trial3-LR](Output_Data/visualizations/trial3Lr.png)    ![CM-Trial3-RFC](Output_Data/visualizations/CM-RFC-trial3.png) 
 
-### coclusion:
+### Takeaway:
 We're going to go with the third trial the Random Forest Classifier methond since it gives the most accurate results!
 
 ----------------------------------------------- Predicting Payment Status End --------------------------------------- 
