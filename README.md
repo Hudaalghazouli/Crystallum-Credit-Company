@@ -81,7 +81,7 @@ We determined our models towards linear regression were not that accurate and th
 
 ----------------------------------------------- Predicting Credit Limit End --------------------------------------- 
 
-# Logistic Regression model:
+# Logistic Regression model: (logistic_regression_model.ipynb)
 
 * Used https://www.kaggle.com/datasets/rikdifos/credit-card-approval-prediction to predict whether the customers who receive credit from us  will pay us back.
 * We looked at the status of payments and reworked the values in the ‘STATUS’ column so it can only hold 0 or 1.
@@ -140,9 +140,9 @@ We determined our models towards linear regression were not that accurate and th
 ## Confusion Matrix: 
 * Trial #3:
 
-![CM-Trial3-LR](Output_Data/visualizations/CM-LR-trial3.png)    ![CM-Trial3-RFC](Output_Data/visualizations/CM-RFC-trial3.png) 
+![CM-Trial3-LR](Output_Data/visualizations/trial3Lr.png)    ![CM-Trial3-RFC](Output_Data/visualizations/CM-RFC-trial3.png) 
 
-### coclusion:
+### Takeaways:
 We're going to go with the third trial the Random Forest Classifier methond since it gives the most accurate results!
 
 ----------------------------------------------- Predicting Payment Status End --------------------------------------- 
