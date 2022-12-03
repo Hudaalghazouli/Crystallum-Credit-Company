@@ -4,7 +4,6 @@
 
 #### Team Members
 
-
 • Hwa Hara, Fannie Polcari, Dantrell Person, Huda Alghazouli, Kafayat Lawal, Angele Gueupi, William Mills
 
 ## Project Summary:
