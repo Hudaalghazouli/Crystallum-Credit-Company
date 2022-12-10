@@ -159,6 +159,7 @@ We determined our models towards linear regression were not that accurate and th
 
 ## Confusion Matrix: 
 * Trial #1:
+
 ![CM-Trial1-LR](Output_Data/visualizations/CM-LR-trial1.png)   ![CM-Trial1-RFC](Output_Data/visualizations/CM-RFC-trial1.png) 
 
 ## Confusion Matrix: 
