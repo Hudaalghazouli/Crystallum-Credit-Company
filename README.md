@@ -2,7 +2,6 @@
 
 ![image](assets/images/credit-card-stock.png)
 
-
 #### Team Members
 
 • Hwa Hara, Fannie Polcari, Dantrell Person, Huda Alghazouli, Kafayat Lawal, Angele Gueupi, William Mills
