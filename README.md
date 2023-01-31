@@ -7,6 +7,11 @@
 • Hwa Hara, Fannie Polcari, Dantrell Person, Huda Alghazouli, Kafayat Lawal, Angele Gueupi, William Mills
 
 ## Project Summary:
+:
+:
+:
+:
+:
 
 We are a credit card company named Crystallum looking to improve our credit lending processes.
 
