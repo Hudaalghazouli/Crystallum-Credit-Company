@@ -11,7 +11,6 @@
 :
 :
 :
-:
 
 We are a credit card company named Crystallum looking to improve our credit lending processes.
 
