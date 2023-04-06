@@ -1,5 +1,4 @@
 # Crystallum-Credit-Company
-H
 
 ![image](assets/images/credit-card-stock.png)
 
