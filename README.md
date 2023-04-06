@@ -1,5 +1,5 @@
 # Crystallum-Credit-Company
-Haga
+Hag
 
 ![image](assets/images/credit-card-stock.png)
 
