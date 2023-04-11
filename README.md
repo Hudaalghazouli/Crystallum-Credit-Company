@@ -1,5 +1,5 @@
 # Crystallum-Credit-Company
-Babbl
+Babb
 ![image](assets/images/credit-card-stock.png)
 
 #### Team Members
