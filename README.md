@@ -1,7 +1,7 @@
 # Crystallum-Credit-Company
-
+G
 ![image](assets/images/credit-card-stock.png)
-V
+
 #### Team Members
 
 • Hwa Hara, Fannie Polcari, Dantrell Person, Huda Alghazouli, Kafayat Lawal, Angele Gueupi, William Mills
