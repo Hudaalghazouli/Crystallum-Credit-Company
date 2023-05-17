@@ -1,5 +1,5 @@
 # Crystallum-Credit-Company
-hg
+h
 ![image](assets/images/credit-card-stock.png)
 
 #### Team Members
